@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Too late, my time has come
 Sends shivers down my spine
 Body's aching all the time
@@ -6,3 +7,11 @@ Gotta leave you all behind and face the truth
 Mama, ooo (anyway the wind blows)
 I don't want to die
 I sometimes wish I'd never been born at all
+=======
+Ooh yeah, ooh yeah
+Nothing really matters
+Anyone can see
+Nothing really matters nothing really matters to me
+
+Anyway the wind blows
+>>>>>>> 98021c99aa3b6b92496457d9268f8cfa5e3fa968
