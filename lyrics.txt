@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 So you think you can stone me and spit in my eye?
 So you think you can love me and leave me to die?
 Oh, baby, can't do this to me, baby,
@@ -9,3 +10,11 @@ Nothing really matters,
 Anyone can see,
 Nothing really matters,
 Nothing really matters to me. 
+=======
+Ooh yeah, ooh yeah
+Nothing really matters
+Anyone can see
+Nothing really matters nothing really matters to me
+
+Anyway the wind blows
+>>>>>>> 98021c99aa3b6b92496457d9268f8cfa5e3fa968
